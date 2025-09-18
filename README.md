@@ -3,7 +3,7 @@
 This project focuses on building a machine learning model to predict credit risk, utilizing a German credit risk dataset. 
 The solution involves an end-to-end pipeline from data analysis to model deployment.
 
-Key Features:
+**Key Features:**
 Data Analysis & Preprocessing: Explored and cleaned the dataset, handling missing values and preparing the data for model training.
 
 Model Training & Evaluation: Trained and compared the performance of several tree-based classifiers including Decision Tree, Random Forest, Extra Trees Classifier, and XGBoost.
